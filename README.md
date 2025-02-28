@@ -164,3 +164,70 @@ I played the race and common fly
 ![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202024-12-28%20110700.png?raw=true)
 Many times it crashed and as same many times i won the race 
 ![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%20(14).png?raw=true)
+# TASK 11: Working with git hub
+**Objective:** \
+ Familiarize yourself with GitHub integrated workflows (GitHub actions), Issues, and pull requests with this task. Given below is a git repository, go check it out and then perform the necessary tasks stated in the readme file as given in the MARVEL website. \
+ **Outcomes&Learning** 
+ 1. I have created an account on git hub.
+ 2. I learnt how to create and delete own repositories.
+ 3. I learnt to fork the given repository to my repository.
+   ![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-24%20092706.png?raw=true)
+   [clickhere](https://github.com/Vishalpolicepatil/vishal-git-task) to view what changes i have done.
+ # TASK 12: Working with Pandas and Matplotlib
+ **Objective:** \
+ By Using Pandas and Matplotlib, and a dataset of your choice, plot a line graph, bar graph, and scatter plot.\
+ **Outcomes&Learnings** \
+ I learnt to plot line graph, bar graph and scatter plot. \
+ Line Graph:
+ ![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-25%20112450.png?raw=true)
+ Bar graph: \
+ I have ploted Fruit Sales Bar Graph
+ ![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-25%20112842.png?raw=true)
+ Scatter Graph:
+ ![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-25%20113435.png?raw=true)
+# TASK 13: API
+**Objective:** \
+Learn the working of an API and its applications. Using any API of your choice, build a user interface (web app, mobile app, etc), where you can make calls and then display the necessary information. An example weather app is given below, using the open weather API. 
+
+**Outcomes&Learning:** \
+I have made an open weather web page by using HTML and CSS
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-25%20154345.png?raw=true)
+# TASK 14: K-Map & Deriving Logic Gates
+**Objective:** \
+To determine the Karnaugh map and create a burglar alarm using simple logic circuits and to push buttons for the door and key, and design the circuit based on the K-map. 
+
+**Procedure:** \
+A burglar alarm system is a network of sensors and devices that detect unauthorized entry into a building or vehicle.
+
+let us make the following assumptions:
+
+- Let D denotes Door and open door denoted by 1 and closed door is denoted by 0.
+- Let k denotes key if key is used to open door is denoted by 1 and if key is not used to open door is denoted by 0.
+- Let A denotes burglar alarm and 1 denotes it is activated and 0 denotes it is not activated.
+  Alaram works on the following truth table:
+  ![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-25%20215423.png?raw=true)
+K-Map obtained from the given truth table:
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-25%20220405.png?raw=true)
+
+**Outcomes&Learning:** \
+The logic circuit representing as shown
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-25%20220810.png?raw=true)
+Logic circuit in Simulator:
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-25%20222214.png?raw=true)
+# TASK 15: Datasheets report Writing
+**Objective:** \
+To study the datasheet of L293D motor driver and write a report on it. Specify about the IC's used in L293D, PWM, H-Bridge etc.
+
+**Outcomes&Learnings:** \
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-26%20172643.png?raw=true)
+H-Bridge circuit diagram using transistor
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-26%20173159.png?raw=true)
+The motor driver act as amplifier which amplifies the input voltage to drive the motor L293D motor also H-bridge circuit used by transistor. The amplifier is used to amplifies the input voltage because the voltage is 5v of microcontroller. The motor driver is made up of H-bridge in which 4 switches as used.
+It is capable to drive the motor unidirectional and bidirectional.
+
+Pins of L293D Motor:
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202025-02-26%20174143.png?raw=true)
+- PWM  to control speed: \
+The speed of a DC motor can be controlled by changing its input voltage. A common technique to do this is to use PWM (Pulse Width Modulation). PWM is a technique where the average value of the input voltage is adjusted by sending a series of ON-OFF pulses. The average voltage is proportional to the width of the pulses known as the Duty Cycle.
+- H-Bridge to control the rotation direction: \
+The spinning direction of a DC motor can be controlled by changing the polarity of its input voltage. A common technique for doing this is to use an H-bridge. An H-bridge circuit consists of four switches with the motor in the centre forming an H-like arrangement. Closing two specific switches at a time reverses the polarity of the voltage applied to the motor. This causes a change in the spinning direction of the motor.
