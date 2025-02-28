@@ -136,34 +136,6 @@ To participate in the technical event \
 **Participation:** \
  I have participated in the **KAGADA 20** poster presentation and won first prize our topic is 3 way solution to tackle air polution
 ![alt text](https://github.com/Vishalpolicepatil/Report/blob/40d2cf5e8cc5aa286d58397fd0a335987be0743f/poster%20presentation.jpg?raw=true)
-
-# **Domain specific Tasks**
-# TASK 1: History of Aviation
-**Objective:** \
-To understand the history of aviation and the parts of planes and their technical names and the tought process behind the advancement in the aviation sector. \
-**Outcomes&Learning:** 
-#### History of Aviation
-The history of aviation started in china with kite. It was one of the wonderful journey from kite to jets,cargo palnes,drones and many more. The following picture can explain the journey of aviation sector  
-![alt text](https://github.com/Vishalpolicepatil/Report/blob/40d2cf5e8cc5aa286d58397fd0a335987be0743f/History%20of%20flying.jpg?raw=true)
-Nowadays Aviation sector is growing field and it is an important mode of transport and in defence sector.\
-Here is the image of an jet flying in the sky with joy
-![alt text](https://raw.githubusercontent.com/Vishalpolicepatil/Report/40d2cf5e8cc5aa286d58397fd0a335987be0743f/jet.webp)
-#### Parts of Plane 
-Plane is a complecated and technical thing that involves many number of things to operate smoothly. \
-Here are some basic parts of planes 
-![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202024-12-28%20104526.png?raw=true)
-# TASK 2: Simulation Flying
-**Objective:** \
-To Gain hands-on experience with fundamental drone maneuvers and understand the importance of maintaining line of sight while operating a UAV. Use a simulator to observe drone speed, range, and the rotation of axes, and tackle various flying challenges. \
-**Outcomes&Learnings:** \
-I used RDS(Real Drone Simulator) to simulate the working of drone. The speed of the drone in the simulator is high it is very difficult to control the drone. Somehow i learnt to control in some manner. \
-Here are some glimpses while learning and playing: \
-RDS gives the platform to customize the drone 
-![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%20(12).png?raw=true)
-I played the race and common fly 
-![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202024-12-28%20110700.png?raw=true)
-Many times it crashed and as same many times i won the race 
-![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%20(14).png?raw=true)
 # TASK 11: Working with git hub
 **Objective:** \
  Familiarize yourself with GitHub integrated workflows (GitHub actions), Issues, and pull requests with this task. Given below is a git repository, go check it out and then perform the necessary tasks stated in the readme file as given in the MARVEL website. \
@@ -231,3 +203,32 @@ Pins of L293D Motor:
 The speed of a DC motor can be controlled by changing its input voltage. A common technique to do this is to use PWM (Pulse Width Modulation). PWM is a technique where the average value of the input voltage is adjusted by sending a series of ON-OFF pulses. The average voltage is proportional to the width of the pulses known as the Duty Cycle.
 - H-Bridge to control the rotation direction: \
 The spinning direction of a DC motor can be controlled by changing the polarity of its input voltage. A common technique for doing this is to use an H-bridge. An H-bridge circuit consists of four switches with the motor in the centre forming an H-like arrangement. Closing two specific switches at a time reverses the polarity of the voltage applied to the motor. This causes a change in the spinning direction of the motor.
+
+# **Domain specific Tasks**
+# TASK 1: History of Aviation
+**Objective:** \
+To understand the history of aviation and the parts of planes and their technical names and the tought process behind the advancement in the aviation sector. \
+**Outcomes&Learning:** 
+#### History of Aviation
+The history of aviation started in china with kite. It was one of the wonderful journey from kite to jets,cargo palnes,drones and many more. The following picture can explain the journey of aviation sector  
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/40d2cf5e8cc5aa286d58397fd0a335987be0743f/History%20of%20flying.jpg?raw=true)
+Nowadays Aviation sector is growing field and it is an important mode of transport and in defence sector.\
+Here is the image of an jet flying in the sky with joy
+![alt text](https://raw.githubusercontent.com/Vishalpolicepatil/Report/40d2cf5e8cc5aa286d58397fd0a335987be0743f/jet.webp)
+#### Parts of Plane 
+Plane is a complecated and technical thing that involves many number of things to operate smoothly. \
+Here are some basic parts of planes 
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202024-12-28%20104526.png?raw=true)
+# TASK 2: Simulation Flying
+**Objective:** \
+To Gain hands-on experience with fundamental drone maneuvers and understand the importance of maintaining line of sight while operating a UAV. Use a simulator to observe drone speed, range, and the rotation of axes, and tackle various flying challenges. \
+**Outcomes&Learnings:** \
+I used RDS(Real Drone Simulator) to simulate the working of drone. The speed of the drone in the simulator is high it is very difficult to control the drone. Somehow i learnt to control in some manner. \
+Here are some glimpses while learning and playing: \
+RDS gives the platform to customize the drone 
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%20(12).png?raw=true)
+I played the race and common fly 
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202024-12-28%20110700.png?raw=true)
+Many times it crashed and as same many times i won the race 
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%20(14).png?raw=true)
+
