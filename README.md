@@ -231,4 +231,20 @@ I played the race and common fly
 ![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%202024-12-28%20110700.png?raw=true)
 Many times it crashed and as same many times i won the race 
 ![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Screenshot%20(14).png?raw=true)
+# TASK 3: Design an Airfoil in fusion 360 
+**Objective:** \
+Design an airfoil with NACA 4412 coordinates in Fusion 360. Use the DAT to spline converter or canvas tool to sketch the airfoil. Understand terms such as angle of attack, camber line, chord line, and leading edge. Design two versions: one using a wood environment and another using composites. The wing should generate at least 5 newtons of lift at a wind speed of 25 m/s.
+
+**Outcomes&Learning:** \
+I have learnt about airfoils and it's shapes and about NACA 4412. \
+
+**Labelled Diagram of airfoil:**
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Diagram-of-airfoils-geometry.png?raw=true)
+**NACA 4412 Charcteristics:**
+
+Camber: The NACA 4412 has a maximum camber of 4% of the chord. \
+Camber Location: The maximum camber is located at 40% of the chord length from the leading edge. \
+Thickness: The airfoil has a maximum thickness of 12% of the chord.
+
+![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/NACA%204412.png?raw=true)
 
