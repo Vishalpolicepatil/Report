@@ -240,6 +240,7 @@ I have learnt about airfoils and it's shapes and about NACA 4412. \
 
 **Labelled Diagram of airfoil:**
 ![alt text](https://github.com/Vishalpolicepatil/Report/blob/main/Diagram-of-airfoils-geometry.png?raw=true)
+
 **NACA 4412 Charcteristics:**
 
 Camber: The NACA 4412 has a maximum camber of 4% of the chord. \
